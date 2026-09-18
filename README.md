@@ -1,6 +1,6 @@
 <!-- 1. Header Banner -->
 <p align="center">
-  <img src="../BackGround_ArifPamiSetiaji.jpg alt="Header Banner" width="100%">
+  <img src="./BackGround_ArifPamiSetiaji.jpg alt="Header Banner" width="100%">
 </p>
 
 <!-- 2. Deskripsi / Bio Singkat -->
