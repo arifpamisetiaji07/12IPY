@@ -25,3 +25,17 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
+
+---
+
+## Currently Building
+
+Building SaaS products, full stack applications, and internal tools with a focus on reliability and practical value.
+
+---
+
+## Cybersecurity Fundamentals
+
+<p align="center">
+  🐉 Kali Linux | 🌐 Network Security | 📊 Wireless Security | 🔍 Vulnerability Assessment | 📡 Network Monitoring
+</p>
