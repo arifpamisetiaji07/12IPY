@@ -28,6 +28,22 @@
 
 ---
 
+## Minecraft Server Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Minecraft_Server_Admin-55FF55?style=for-the-badge&logo=minecraft&logoColor=black" />
+  <img src="https://img.shields.io/badge/SERVER_SCRIPTING-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plugin_Configuration-00AAAA?style=for-the-badge&logo=puzzle&logoColor=white" />
+  <img src="https://img.shields.io/badge/SERVER_CUSTOMIZATION-FFAA00?style=for-the-badge&logo=curseforge&logoColor=black" />
+  <br />
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
+  <img src="https://img.shields.io/badge/SKRIPT-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/SPIGOT-E67E22?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/PaperMC-1B1E2B?style=for-the-badge&logo=paper&logoColor=white" />
+</p>
+
+---
+
 ## Currently Building
 
 Building SaaS products, full stack applications, and internal tools with a focus on reliability and practical value.
